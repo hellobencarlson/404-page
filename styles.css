@@ -3,10 +3,6 @@ img {
     padding: 15px;
 }
 
-body {
-    font-family: 'Geo', sans-serif;
-}
-
 p {
     font-size: 24px;
     color: gray;
@@ -14,11 +10,16 @@ p {
 
 h1 {
     margin: 5px;
+    font-family: 'Inconsolata', monospace;
 }
 
 h2 {
     font-size: 48px;
     margin: 10px 0px;
+}
+
+div {
+    font-family: "Space Mono", monospace;
 }
 
 button {
@@ -27,7 +28,7 @@ button {
     margin: 20px 0px;
     padding: 20px 40px;
     font-size: 20px;
-    font-family: 'Geo', sans-serif;
+    font-family: 'Inconsolata', monospace;
     float: left;
 }
 
@@ -35,7 +36,7 @@ footer {
     margin: 0 auto;
     color: lightgray;
     position: fixed;
-    bottom: 0;
+    bottom: 10px;
     width: 100%;
     text-align: center;
 }
