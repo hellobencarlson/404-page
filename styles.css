@@ -1,0 +1,62 @@
+img {
+    width: 80%;
+    padding: 15px;
+}
+
+body {
+    font-family: 'Geo', sans-serif;
+}
+
+p {
+    font-size: 24px;
+    color: gray;
+}
+
+h1 {
+    margin: 5px;
+}
+
+h2 {
+    font-size: 48px;
+    margin: 10px 0px;
+}
+
+button {
+    color: white;
+    background-color: black;
+    margin: 20px 0px;
+    padding: 20px 40px;
+    font-size: 20px;
+    font-family: 'Geo', sans-serif;
+    float: left;
+}
+
+footer {
+    margin: 0 auto;
+    color: lightgray;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+@media (min-width: 768px) {
+    img {
+        width: 45%;
+        float: left;
+    }
+
+    div {
+        width: 40%;
+        float: right;
+        margin: 0px 30px 0px 0px;
+    }
+
+    p {
+        width: 70%;
+    }
+
+    h1 {
+        margin-bottom: 100px;
+    }
+}
