@@ -1,12 +1,5 @@
 
-        <li><b>Step 5:</b> Update README.md</li>
-        <li><b>Step 6:</b> Deploy your app and submit your solution</li>
-        <li>
-          <b>Step 7:</b> Share your solution on Discord, Twitter and other
-          platforms to ask for feedback
-        </li>
-      </ul>
-
+ 
 
 <h1 align="center">404 Page</h1>
 
@@ -16,11 +9,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://hellobencarlson.github.io/404-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/hellobencarlson/404-page/">
       Solution
     </a>
     <span> | </span>
@@ -46,13 +39,12 @@
 
 ![image](https://user-images.githubusercontent.com/24322300/124329488-81bab000-db59-11eb-8e20-60d2e95b5a24.png)
 
+Screenshot above.
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+Enjoyed this project, getting back into regular coding after a few months away.
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+Learned about coding based on a Figma mockup and trying to get it just right.  Refreshed with some CSS practice.
+
 
 ### Built With
 
